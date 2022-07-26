@@ -4,7 +4,9 @@
 
 This was once created for an community fanart competition back around 2018.
 
-![front](https://github.com/IHopeUStepOnLEGO/PathOfExileLogo_Mirror_3d/blob/master/images/poe_mirror_front.png =x250)
+![front](https://github.com/IHopeUStepOnLEGO/PathOfExileLogo_Mirror_3d/blob/master/images/poe_mirror_front.png)
+
+[<img src="[./assets/sql.svg](https://github.com/IHopeUStepOnLEGO/PathOfExileLogo_Mirror_3d/blob/master/images/poe_mirror_front.png)" width="30" />]([./link/to/sql/file](https://github.com/IHopeUStepOnLEGO/PathOfExileLogo_Mirror_3d/blob/master/images/poe_mirror_front.png))
 
 ![side](https://github.com/IHopeUStepOnLEGO/PathOfExileLogo_Mirror_3d/blob/master/images/poe_mirror_side.png)
 
